@@ -1,0 +1,23 @@
+/*
+**********************************
+--These scripts are to create datawarehouse database and the bronze,silver and gold schemas
+****************************************
+*/
+
+
+
+--use master;
+--GO
+
+--Drop database Datawarehouse01;
+
+
+--use master;
+--GO
+--create database Datawarehouse01;
+--GO
+--use Datawarehouse01;
+--GO
+--create schema gold;
+--GO
+--create schema gold;
